@@ -6,6 +6,7 @@ public class Main {
         ucburchruc.b = 13;
         ucburchruc.c = 9;
         ucburchruc.area();
+        System.out.println();
 
 
 
